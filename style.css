@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css?family=Ultra|Ramabhadra|Padauk');
+
+p {
+	font-family: 'Padauk', sans-serif;
+	font-size: large;
+}
+#h3 {
+	font-family: 'Ramabhadra', sans-serif;
+}
+*{
+	color:rgb(38,44,53);
+}
+.dna {
+	padding: 140px 125px;
+	color: rgba(38,44,53,0.9);
+	/*background-color: rgba(38,44,53,0.7);*/
+	/*margin: 20px 0;*/
+}
+.dnainfo {
+	/*background: url(imgs/dna.png) no-repeat center center fixed;*/
+  	/*background-size: cover;*/
+}
+.intro {
+	/*margin: 45px;*/
+	/*padding: 40px 95px;*/
+	color: white;
+	background-color: rgb(38,44,53);
+	/*margin: 20px 0;*/
+  	padding: 140px 60px;
+}
+.map {
+	/*background: url(imgs/map1.png) no-repeat center center fixed;*/
+  	/*background-size: cover;*/
+  	/*width: 100%;*/
+  	/*height: 30em;*/
+  	margin: 20px 0;
+  	padding: 140px 30px;
+}
+.feeling {
+	padding-bottom: 65px;
+}
+.faces {
+	/*font-family: 'Alfa Slab One', cursive;*/
+	font-family: 'Ultra', serif;
+	font-size: 31px;
+}
+.site {
+	display: block;
+	padding: 62px 22px;
+}
+.wirefr {
+	background: url(imgs/wirefr.jpg) no-repeat center center fixed;
+  	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
+  	background-size: cover;
+	display: block;
+	height: 32em;
+	/*padding: 62px 22px;*/
+	/*top: 25%;*/
+	/*left: 0;*/
+}
+
+.wireframes {
+	background: url(imgs/wireframs1.png) no-repeat center center fixed;
+  	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
+  	background-size: cover;
+	display: block;
+	height: 32em;
+	/*margin: 61px;*/
+}
+#screen{
+    padding: 44px 0;
+    background: rgba(212, 203, 190, 0.3);
+}
+.wireframe {
+	background: url(imgs/wireframs2.png) no-repeat center center fixed;
+  	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
+  	background-size: cover;
+	display: block;
+	height: 32em;
+}

@@ -15,6 +15,7 @@ p {
 	padding: 140px 125px;
 	color: rgba(38,44,53,0.9);
 	font-size: 30px;
+	height: 24em;
 	/*background-color: rgba(38,44,53,0.7);*/
 	/*margin: 20px 0;*/
 }
@@ -28,8 +29,8 @@ p {
 	color: white;
 	background-color: rgb(38,44,53);
 	/*margin: 20px 0;*/
-  	padding: 140px 60px;
-  	font-size: 27px;
+  	padding: 340px 60px;
+  	font-size: 30px;
 }
 .map {
 	/*background: url(imgs/map1.png) no-repeat center center fixed;*/
@@ -40,7 +41,7 @@ p {
   	padding: 140px 30px;
 }
 .feeling {
-	padding-bottom: 65px;
+	padding-bottom: 25px;
 }
 .faces {
 	/*font-family: 'Alfa Slab One', cursive;*/
@@ -56,7 +57,7 @@ p {
   	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
   	background-size: cover;
 	display: block;
-	height: 32em;
+	height: 62em;
 	/*padding: 62px 22px;*/
 	/*top: 25%;*/
 	/*left: 0;*/
@@ -67,7 +68,7 @@ p {
   	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
   	background-size: cover;
 	display: block;
-	height: 32em;
+	height: 52em;
 	/*margin: 61px;*/
 }
 #screen{
@@ -79,7 +80,7 @@ p {
   	/* url(../imgs/gardenZ.png) no-repeat center center fixed; */
   	background-size: cover;
 	display: block;
-	height: 32em;
+	height: 52em;
 }
 
 
@@ -89,11 +90,11 @@ p {
 
 .phone {
 	width:420px; 
-	margin-left: 35%; 
+	margin-left: 40%; 
 	border-style: groove; 
 	margin-bottom:50px; 
 	margin-top:20px;
-	height: 650px; 
+	height: 700px; 
 	overflow: scroll; 
 	border-radius: 30px;
 }

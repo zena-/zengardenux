@@ -48,6 +48,7 @@
 .site {
 	display: block;
 	padding: 62px 22px;
+	margin: 150px 0;
 }
 .wirefr {
 	background: url(imgs/wirefr.jpg) no-repeat center center fixed;
@@ -55,9 +56,7 @@
   	background-size: cover;
 	display: block;
 	height: 72em;
-	/*padding: 62px 22px;*/
-	/*top: 25%;*/
-	/*left: 0;*/
+	/*margin: 62px 22px;*/
 }
 
 .wireframes {
